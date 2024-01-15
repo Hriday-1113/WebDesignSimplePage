@@ -1,0 +1,142 @@
+body{
+    margin:0px;
+    font-family: 'Space Grotesk', sans-serif;
+    color: beige;
+    background-color: rgb(255, 217, 0);
+   
+}
+.inner{
+    margin-left: 40px;
+    font-size: 20px;
+}
+h1{
+    font-size: 5rem;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+
+.main{
+    width:900px;
+    height:858px;
+    background-color:black;
+    display: flex;
+    flex-direction: column;
+}
+
+.first_division{
+    display: flex;
+    gap:390px;
+    margin-bottom: 0px;
+}
+.right_image{
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    
+    
+
+}
+.wealth{
+
+     color: rgb(194, 65, 65);
+}
+.wealth>p{
+    margin: 0;
+    font-size: 30px;
+    text-align: end;
+    
+}
+
+.i360 > p{
+   font-size: 50px;
+   margin: 0;
+   text-align: end;
+   
+
+}
+
+/* second division styling */
+
+.color{
+    color:rgb(194, 65, 65) ;
+}
+
+/* third section*/
+
+#inner_box{
+    background-color:rgb(196, 65, 65) ;
+    width: 65%;
+    height: 292px;
+    display: flex;
+    flex-direction: column;
+}
+
+#inner_box>.pa{
+    margin:0;
+    margin-bottom: 50px;
+}
+.third_division{
+    display: flex;
+    
+    
+}
+
+.side_design{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+   
+    height: 291px;
+
+}
+
+#el{
+   
+    height: 37px;
+}
+
+#el>h4{
+    font-weight: 400;
+    margin:0px;
+    margin-top: 0px;}
+
+.he11>h2{
+    font-size:75px ;
+    margin: 0px;
+    
+    color: rgb(194, 65, 65);
+    height:5.8rem;
+}
+
+.he11>h2>sup{
+    font-weight: 100;
+    
+}
+
+#jan>span{
+    background-color: rgb(194, 65, 65);
+}
+
+#header24{
+    font-size: 75px;
+    color: rgb(194, 65, 65);
+    font-weight:600;
+    width: 40px;
+}
+#header24>sup{
+    font-weight: 100;
+}
+
+#jan_again>span{
+    
+    background-color:rgb(194, 65, 65) ;
+}
+
+
+
+
+
+
+
+
+
